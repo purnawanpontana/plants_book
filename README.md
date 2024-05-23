@@ -6,5 +6,5 @@
 4. Simulasi docking dua molekul/Inclusion Complexes/desain polimer https://youtu.be/1rgYEMjxHms 
 
 ## Link Sofware docking
-1. PLANTS dan Spores https://github.com/ppontana/plants/archive/refs/heads/main.zip
+1. PLANTS dan Spores https://github.com/purnawanpontana/plants/archive/refs/heads/main.zip
 2. Biovia discovery studio, chimera, avogadro https://drive.google.com/drive/folders/1_2wk2VlJUH8EFpytu34mPQQuF6pq4_zE
